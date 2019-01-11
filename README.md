@@ -1,2 +1,2 @@
-# Class-Assignment-NodeJs
-Passport-facebook authentication
+# Lab-Practice-Code
+Node.js Lab Practice
